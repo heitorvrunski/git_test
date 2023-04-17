@@ -1,0 +1,71 @@
+{
+  "CDIVersion": "5593.0474.5628.3",
+  "IASVersion": "17.3.10000",
+  "ApplicationName": "IndustrialGraphics",
+  "DBChangeLog": 4,
+  "UniqueToolsetId": 214748,
+  "UniqueSymbolId": 217,
+  "IncludeAllGraphics": true,
+  "ItemCollection": {
+    "215": {
+      "Name": "$Symbol",
+      "FolderId": 0,
+      "Id": 215,
+      "Codebase": "ArchestrA.Symbol.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 2,
+      "IsTemplate": true,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 133262382031088761,
+      "IsCheckedOut": false
+    },
+    "216": {
+      "Name": "$ClientControl",
+      "FolderId": 0,
+      "Id": 216,
+      "Codebase": "ArchestrA.ClientControl.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 3,
+      "IsTemplate": true,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 133262382032182513,
+      "IsCheckedOut": false
+    },
+    "217": {
+      "Name": "$Widget",
+      "FolderId": 0,
+      "Id": 217,
+      "Codebase": "ArchestrA.Widget.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 4,
+      "IsTemplate": true,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 133262382032182513,
+      "IsCheckedOut": false
+    }
+  },
+  "FolderCollection": {
+    "0": {
+      "ParentId": -1,
+      "FolderName": "IndustrialGraphics",
+      "FolderPath": "",
+      "FolderDepth": 0,
+      "FolderId": 0,
+      "HasChildFolders": false,
+      "HasChildItems": true,
+      "ModifiedTimeStamp": 133262382032182513
+    }
+  }
+}
